@@ -35,7 +35,7 @@
 1. Security
    1. Where are the passwords exactly saved?
    2. When i update the Linux password for the user John, is it properly updated in Samba as well?
-   3. Since it is "only one user", is the potential damage low?
+   3. Since it is "only one limited user for only one specific folder without a shell", is the potential damage low?
 
 
 ## Config Settings
