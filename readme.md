@@ -3,8 +3,6 @@
 
 ## Purpose of this repository
 
----
-
 - To learn Samba Server on Linux.
 - Protocol my steps and be able to reconstruct the results if necessary.
 - To backup my current and the original config settings.
@@ -12,16 +10,12 @@
 
 ## References
 
----
-
 - More or less most here mentioned steps are copied / inspired from [this YouTube video](https://www.youtube.com/watch?v=4zIETevbstg).
 - Also the [Samba.org](https://wiki.samba.org/index.php/Main_Page) is very helpful.
 - Initial inspiration from [this YouTube video](https://www.youtube.com/watch?v=7Q0mnAT1MRg).
 
 
 ## Remaining Questions:
-
----
 
 1. Do i need masks?
    1. What is the function of these masks?
@@ -45,15 +39,11 @@
 
 ## Config Settings
 
----
-
 - The actually settings are not saved as markdown. You can find the current settings in smb.conf.
 - The original settings are saved in smb.original.conf
 
 
 ## Relevant Samba Terminal Commands
-
----
 
 ### 1. Basic
 
