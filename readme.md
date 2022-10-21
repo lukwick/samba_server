@@ -29,10 +29,15 @@
    3. Differences between:
       1. 0664
       2. 0775
-   4. Are these the reasons for the two problems I have?
-1. How to scan documents with the iPad and save it directly on the server?
-1. How to save pictures from iPad directly on the Server?
-1. Security
+2. How do I save data from my local iPad to my Server
+   1. How to scan documents with the iPad and save it directly on the server?
+      1. Not possible, error message: (OSStatus-Fehler 100093)
+      2. According to [this post](https://communities.apple.com/de/thread/253166685), the problem seems common for apple user who use the smb protocl.
+   2. How to save pictures from iPad directly on the Server?
+      1. Assumingly same error.
+   3. Possible solution: wait for an iOS update
+   4. Possible troubleshooting: check out if same problem occurs with other Linux or Windows Computer to be certain, that it is a iOS problem
+3. Security
    1. Where are the passwords exactly saved?
    2. When i update the Linux password for the user John, is it properly updated in Samba as well?
    3. Since it is "only one limited user for only one specific folder without a shell", is the potential damage low?
