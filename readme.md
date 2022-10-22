@@ -17,13 +17,7 @@
 
 ## Remaining Questions:
 
-1. Do i need masks?
-   1. What is the function of these masks?
-   2. What is the current default?
-   3. Differences between:
-      1. 0664
-      2. 0775
-2. Security
+1. Security
    1. Where are the passwords exactly saved?
    2. When i update the Linux password for the user John, is it properly updated in Samba as well?
    3. Since it is "only one limited user for only one specific folder without a shell", is the potential damage low?
